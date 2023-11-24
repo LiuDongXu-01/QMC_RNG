@@ -1,9 +1,9 @@
-#QMC_RNG
+#QMC_RNG  
 Quantum Mento Carlo code for test different RNG's performance  
-Code should only excute on Linux system for X-86/64  
+Code should only execute on Linux system for X-86/64  
 Donwload the QMC.tar.gz  
 tar -xf QMC.tar.gz  
-See readme file to learn how to install and excute program  
+See readme file to learn how to install and execute program  
 #Problem for install fail  
 1. ensure your permissoion that each directory are read/write/excute available.
 2. ensure the environment variable in file in xx/QMC/uilts/QMC.bashrc are set corrected 
